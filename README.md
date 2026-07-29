@@ -1,3 +1,3 @@
 # githublearning-demo
-This is my first Git Repository
-Authoe-Riya
+This is my first Git Repository.
+Author-Riya
